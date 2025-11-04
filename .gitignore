@@ -1,0 +1,10 @@
+# Ignore data and model folders
+data/
+models/
+__pycache__/
+*.h5
+*.keras
+*.pkl
+*.zip
+*.mat
+*.npy
